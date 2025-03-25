@@ -1,0 +1,3 @@
+### ISSR-3 Evaluation Test for project AI-Powered Behavioral Analysis for Suicide Prevention, Substance Use, and Mental Health Crisis Detection with Longitudinal Geospatial Crisis Trend Analysis
+
+This project focuses on extracting, analyzing, and visualizing mental health crisis-related discussions from social media platform Reddit. Posts related to mental health distress, substance use, and suicidality were collected based on predefined keywords using APIs. The data was preprocessed and sentiment classification was performed. Additionally, I have tried to identify regional crisis patterns, with results visualized. I hope these insights will enable me to contribute toward making the world a better and more supportive place for those in crisis.
